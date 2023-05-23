@@ -1,0 +1,57 @@
+/* Общие стили */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Стили для ссылок */
+a {
+    text-decoration: none;
+    color: #337ab7; /* Ссылки имеют синий цвет */
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Стили для заголовка и пагинации */
+.title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.pagination {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.step-links a {
+    padding: 5px 10px;
+    background-color: #f2f2f2;
+    color: #333;
+    margin-right: 5px;
+    border-radius: 3px;
+}
+
+.step-links a:hover {
+    background-color: #d4d4d4;
+}
+
+/* Стили для элементов списка */
+li {
+    margin-bottom: 10px;
+}
+
+li a {
+    font-weight: bold;
+}
+
+/* Остальные стили и размеры можно настроить по своему усмотрению */
