@@ -21,7 +21,6 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Стили для заголовка и пагинации */
 .title {
     text-align: center;
     font-size: 24px;
@@ -45,7 +44,7 @@ a:hover {
     background-color: #d4d4d4;
 }
 
-/* Стили для элементов списка */
+
 li {
     margin-bottom: 10px;
 }
@@ -54,4 +53,4 @@ li a {
     font-weight: bold;
 }
 
-/* Остальные стили и размеры можно настроить по своему усмотрению */
+
